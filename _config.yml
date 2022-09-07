@@ -4,3 +4,5 @@ plugins:
 title: Chiamami Chef
 description: Una passione con radici profonde
 google_analytics: G-6BCCZD7FWV
+github:
+  is_project_page: false
